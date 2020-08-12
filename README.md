@@ -4,4 +4,4 @@
 
 介紹：https://kartinfo.me/thread-7634-1-1.html
 
-GitHub 分流下載：https://github.com/brownsugar/ppkartrider/releases
+GitHub 分流下載：https://github.com/KartInfo/PPKartRider/releases
